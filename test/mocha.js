@@ -19,15 +19,15 @@ describe('#math',()=>{
             assert(mul(2,3),6);
         });
     });
-    describe('cover',()=>{
-        it('should return 1 when cover(2,1)',()=>{
-            assert(cover(2,1),1);
-        });
-        it('should return 3 when cover(1,2)',()=>{
-            assert(cover(1,2),3);
-        });
-        it('should return 4 when cover(2,2)',()=>{
-            assert(cover(2,2),4);
-        });
+    // describe('cover',()=>{
+    //     it('should return 1 when cover(2,1)',()=>{
+    //         assert(cover(2,1),1);
+    //     });
+    //     it('should return 3 when cover(1,2)',()=>{
+    //         assert(cover(1,2),3);
+    //     });
+    //     it('should return 4 when cover(2,2)',()=>{
+    //         assert(cover(2,2),4);
+    //     });
     })
 })
