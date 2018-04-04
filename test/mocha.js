@@ -29,5 +29,5 @@ describe('#math',()=>{
     //     it('should return 4 when cover(2,2)',()=>{
     //         assert(cover(2,2),4);
     //     });
-    })
+    // })
 })
